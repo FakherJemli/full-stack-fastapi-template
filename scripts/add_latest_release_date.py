@@ -1,4 +1,4 @@
-"""Check release-notes.md and add today's date to the latest release header if missing."""
+"""Check release-notes.md and add the date of today to the latest release header if missing."""
 
 import re
 import sys
